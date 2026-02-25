@@ -1,0 +1,18 @@
+# IntelliJ IDEA 프로젝트 파일
+.idea/
+*.iml
+*.iws
+out/
+build/
+
+# Maven/Gradle 빌드 파일
+target/
+.gradle/
+build/
+
+# 로그 파일
+*.log
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
