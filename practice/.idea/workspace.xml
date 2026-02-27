@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7561a060-22a9-494c-b5fb-2244556aa302" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/module01-java-basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/a_basic/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/a_basic/MainDeep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap01/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap01/Application2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap02/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/c_operators/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/module02-control-flow-and-method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/Application01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/Application02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/IfDeep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap02/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Application01.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AC97uny3mdBtvuktPZ8C62vfWR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.ConditionPractice.executor": "Run",
+    "Application.PracApplication1.executor": "Run",
+    "Application.PracApplication2.executor": "Run",
+    "Application.PracApplication3.executor": "Run",
+    "Application.PracApplication4.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Lecture/01_java/practice/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7561a060-22a9-494c-b5fb-2244556aa302" name="Changes" comment="" />
+      <created>1772085524712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772085524712</updated>
+    </task>
+    <servers />
+  </component>
+</project>
