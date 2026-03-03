@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class ConditionPractice {
     public static void main(String[] args) {
-        ConditionPractice app = new ConditionPractice();
-        app.practice1();
+
     }
 
     public void practice1() {
@@ -88,21 +87,56 @@ public class ConditionPractice {
         int month = sc.nextInt();
         switch(month) {
             case 1,2,12:
-                System.out.println(month + "는 겨울입니다");
+                System.out.println(month + "월은 겨울입니다");
                 break;
             case 3,4,5:
-                System.out.println(month + "는 봄입니다");
+                System.out.println(month + "월은 봄입니다");
                 break;
             case 6,7,8:
-                System.out.println(month + "는 여름입니다");
+                System.out.println(month + "월은 여름입니다");
                 break;
             case 9,10,11:
-                System.out.println(month + "는 가을입니다");
+                System.out.println(month + "월은 가을입니다");
                 break;
             default:
                 System.out.println("잘못 입력된 달");
         }
 
+    }
+
+    public void practice5() {
+        String id = "boram";
+        int pw = 1234;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("아이디 : ");
+        String eid = sc.nextLine();
+        System.out.print("비밀번호 : ");
+        int epw = sc.nextInt();
+        if(eid.equals(id) && epw==pw) {
+            System.out.println("로그인 성공");
+        } else if(!(eid.equals(id))) {
+            System.out.println("아이디가 틀렸습니다.");
+        } else if(epw!=pw) {
+            System.out.println("비밀번호가 틀렸습니다.");
+        }
+    }
+
+    public void practice6() {
+        String master = "관리자";
+        String people = "회원";
+        String stranger = "비회원";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("권한을 확인하고자 하는 회원 등급 : ");
+        String rank = sc.nextLine();
+        if(rank.equals(master)) {
+            System.out.println("회원관리, 게시글 관리, 게시글 작성, 게시글 조회, 댓글 작성");
+        } else if(rank.equals(people)) {
+            System.out.println("게시글 작성, 게시글 조회, 댓글 작성");
+        } else if(rank.equals(stranger)) {
+            System.out.println("게시글 조회");
+        } else {
+            System.out.println("잘못 입력했습니다.");
+        }
     }
 
     public void practice7() {
@@ -184,5 +218,62 @@ public class ConditionPractice {
         } else {
             System.out.println("FAIL");
         }
+    }
+
+    public void practice10() {
+        System.out.println("실행할 기능을 선택하세요.");
+        System.out.println("1. 메뉴 출력");
+        System.out.println("2. 짝수/홀수");
+        System.out.println("3. 합격/불합격");
+        System.out.println("4. 계절");
+        System.out.println("5. 로그인");
+        System.out.println("6. 권한 확인");
+        System.out.println("7. BMI");
+        System.out.println("8. 계산기");
+        System.out.println("9. 점수 결과 출력");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("선택 : ");
+        int a = sc.nextInt();
+        switch(a) {
+            case 1:
+                System.out.println(a);
+                practice1();
+                break;
+            case 2:
+                System.out.println(a);
+                practice2();
+                break;
+            case 3:
+                System.out.println(a);
+                practice3();
+                break;
+            case 4:
+                System.out.println(a);
+                practice4();
+                break;
+            case 5:
+                System.out.println(a);
+                practice5();
+                break;
+            case 6:
+                System.out.println(a);
+                practice6();
+                break;
+            case 7:
+                System.out.println(a);
+                practice7();
+                break;
+            case 8:
+                System.out.println(a);
+                practice8();
+                break;
+            case 9:
+                System.out.println(a);
+                practice9();
+                break;
+            default:
+                break;
+        }
+
     }
 }

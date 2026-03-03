@@ -2,64 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e057014d-462b-4f25-b260-979166467864" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../514.526.65.156/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../514.526.65.156/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/module01-java-basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/a_basic/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/a_basic/MainDeep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap01/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap01/Application2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/b_variable/chap02/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module01-java-basic/out/production/module01-java-basic/com/wanted/c_operators/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/module02-control-flow-and-method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap01/IfDeep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/a_controlflow/chap02/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap01/Application03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Application03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Application04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module03-object-oriented-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/object/a_string/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/object/a_string/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/object/b_array/Application01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/object/b_array/Application02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/object/b_array/Application03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/ConditionPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/ConditionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/ConditionPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/ConditionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/ConditionPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3AEaoALeZoJZfPdxuG9dUneRuBt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -88,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application.executor": "Run",
     "Application.Application01.executor": "Run",
     "Application.Application02.executor": "Run",
     "Application.Application03.executor": "Run",
@@ -96,9 +59,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/01_java/module03-object-oriented-programming/src/com/wanted/opp/b_encapsulation/problem_solved",
     "onboarding.tips.debug.path": "C:/Lecture/01_java/module03-object-oriented-programming/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem_solved" />
+      <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem3" />
+      <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
