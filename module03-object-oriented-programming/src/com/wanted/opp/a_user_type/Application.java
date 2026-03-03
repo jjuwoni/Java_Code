@@ -9,24 +9,24 @@ public class Application {
         *   - 회원 : 아이디, 패스워드, 이름, 나이, 성별, 취미
         * */
 
-        String id = "user01";
-        String pwd = "pass01";
-        String name = "서주원";
-        int age = 20;
-        char gender = '남';
-        String[] hobby = {"탁구", "배드민턴", "야구 시청"};
-
-        /* 위에 작성한 1명의 회원 정보 출력하기 */
-        System.out.println("id = " + id);
-        System.out.println("pwd = " + pwd);
-        System.out.println("age = " + age);
-        System.out.println("name = " + name);
-        System.out.println("gender = " + gender);
-        for(int i=0; i<hobby.length; i++) {
-            System.out.print(hobby[i] + " ");
-        }
-        // 개행을 위한 구문
-        System.out.println();
+//        String id = "user01";
+//        String pwd = "pass01";
+//        String name = "서주원";
+//        int age = 20;
+//        char gender = '남';
+//        String[] hobby = {"탁구", "배드민턴", "야구 시청"};
+//
+//        /* 위에 작성한 1명의 회원 정보 출력하기 */
+//        System.out.println("id = " + id);
+//        System.out.println("pwd = " + pwd);
+//        System.out.println("age = " + age);
+//        System.out.println("name = " + name);
+//        System.out.println("gender = " + gender);
+//        for(int i=0; i<hobby.length; i++) {
+//            System.out.print(hobby[i] + " ");
+//        }
+//        // 개행을 위한 구문
+//        System.out.println();
 
         /* comment.
         *   위처럼, 이렇게 각각의 변수로 관리를 하게 된다면 여러 단점이 존재한다.
