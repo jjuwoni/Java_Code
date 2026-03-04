@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7561a060-22a9-494c-b5fb-2244556aa302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/module01/practice/variable/PracApplication5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module02-control-flow-and-method/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module03-object-oriented-programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module03-object-oriented-programming/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module01/practice/PracApplication1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module01/practice/PracApplication2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module01/practice/PracApplication3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module01/practice/PracApplication4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module01/practice/PracApplication5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module02/practice/controller/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module02/practice/controller/ConditionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/com/module02/practice/controller/ConditionPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module01/practice/PracApplication1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/module01/practice/variable/PracApplication1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module01/practice/PracApplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/module01/practice/variable/PracApplication2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module01/practice/PracApplication3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/module01/practice/variable/PracApplication3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module01/practice/PracApplication4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/module01/practice/variable/PracApplication4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module01/practice/PracApplication5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module02/practice/controller/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/module02/practice/controller/ConditionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/module02/practice/controller/ConditionPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/com/module02/practice/controller/LoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/com/module02/practice/controller/LoopPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +31,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Application.ConditionPractice.executor": "Run",
-    "Application.PracApplication1.executor": "Run",
-    "Application.PracApplication2.executor": "Run",
-    "Application.PracApplication3.executor": "Run",
-    "Application.PracApplication4.executor": "Run",
-    "Application.PracApplication5.executor": "Run",
-    "Application.PracApplication6.executor": "Run",
-    "Application.PracApplication7.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Lecture/01_java/practice/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracApplication7.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Lecture/01_java/practice/src/com/ex&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/01_java/practice/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lecture\01_java\practice\src\com\ex" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

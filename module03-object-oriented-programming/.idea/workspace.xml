@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e057014d-462b-4f25-b260-979166467864" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/opp/c_abstraction/dto/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module03-object-oriented-programming/com/wanted/opp/c_abstraction/dto/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wanted/opp/a_user_type/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wanted/opp/a_user_type/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/LoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/LoopPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,6 +52,9 @@
       <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem_solved" />
       <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem3" />
       <recent name="C:\Lecture\01_java\module03-object-oriented-programming\src\com\wanted\opp\b_encapsulation\problem2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wanted.opp.d_constructor.use" />
     </key>
   </component>
   <component name="SharedIndexes">
