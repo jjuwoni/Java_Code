@@ -19,6 +19,7 @@ public class Application {
 
         LoopPractice loop = new LoopPractice();
         //loop.practice1();
-        loop.practice2();
+        //loop.practice2();
+        loop.practice3();
     }
 }
