@@ -3,9 +3,6 @@ package com.module02.practice.controller;
 import java.util.Scanner;
 
 public class LoopPractice {
-    public static void main(String[] args) {
-
-    }
 
     public void practice1() {
         Scanner sc = new Scanner(System.in);
@@ -74,6 +71,32 @@ public class LoopPractice {
         Scanner sc = new Scanner(System.in);
         System.out.print("정수를 하나 입력하세요 : ");
         int num = sc.nextInt();
+        int sum = 0;
+        for(int i=1; i<num; i++) {
+            System.out.print(i+" + ");
+            sum = sum + i;
+            if(i+1 == num) {
+                sum = sum + num;
+                System.out.println((i+1) + " = " + sum);
+            }
+        }
+
+
+    }
+
+    public void practice6() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("첫 번째 숫자 : ");
+        int n1 = sc.nextInt();
+        System.out.print("두 번째 숫자 : ");
+        int n2 = sc.nextInt();
+        if(n1 < n2) {
+
+        }
+        for(int a=n1; a<=n2; a++) {
+            System.out.print(a);
+        }
+
 
     }
 }
