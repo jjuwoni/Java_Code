@@ -3,9 +3,6 @@ package com.module02.practice.controller;
 import java.util.Scanner;
 
 public class ConditionPractice {
-    public static void main(String[] args) {
-
-    }
 
     public void practice1() {
        /* System.out.println("1. 수정");

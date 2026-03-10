@@ -23,6 +23,7 @@ public class Application {
         //loop.practice3();
         //loop.practice4();
         //loop.practice5();
-        loop.practice6();
+        //loop.practice6();
+        loop.practice7();
     }
 }
