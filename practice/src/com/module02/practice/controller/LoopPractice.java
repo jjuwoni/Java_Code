@@ -90,13 +90,28 @@ public class LoopPractice {
         int n1 = sc.nextInt();
         System.out.print("두 번째 숫자 : ");
         int n2 = sc.nextInt();
-        if(n1 < n2) {
+        while(true) {
+            if (n1 == 0 || n2 == 0) {
+                System.out.println("1이상의 숫자만을 입력해주세요.");
+                break;
+            } else {
+                break;
+            }
+        }
+            if(n1<n2){
+                for(int a=n1; a<=n2; a++) {
+                    System.out.print(" " + a);
+                }
+            } else if(n1>n2) {
+                for(int a=n2; a<=n1; a++) {
+                    System.out.print(" " + a);
+                }
+            }
 
         }
-        for(int a=n1; a<=n2; a++) {
-            System.out.print(a);
-        }
+
+
 
 
     }
-}
+
