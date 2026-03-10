@@ -24,6 +24,8 @@ public class Application {
         //loop.practice4();
         //loop.practice5();
         //loop.practice6();
-        loop.practice7();
+        //loop.practice7();
+        //loop.practice8();
+        loop.practice9();
     }
 }

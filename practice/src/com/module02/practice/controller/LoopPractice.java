@@ -108,29 +108,51 @@ public class LoopPractice {
 
     public void practice7() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("첫 번째 숫자 : ");
-        int n1 = sc.nextInt();
-        System.out.print("두 번째 숫자 : ");
-        int n2 = sc.nextInt();
-
         while(true) {
-            if (n1 == 0 || n2 == 0) {
+            System.out.print("첫 번째 숫자 : ");
+            int num1 = sc.nextInt();
+            System.out.print("두 번째 숫자 : ");
+            int num2 = sc.nextInt();
+
+            if(num1 <= 0 || num2 <= 0) {
                 System.out.println("1이상의 숫자만을 입력해주세요.");
-                practice7();
+                continue;
+            }
+
+            if(num1 > num2) {
+                for(int a = num2; a<=num1; a++) {
+                    System.out.print(" " + a);
+                }
                 break;
-            } else break;
-        }
-        if (n1 < n2) {
-            for (int a = n1; a <= n2; a++) {
-                System.out.print(" " + a);
             }
-        } else if (n1 > n2) {
-            for (int a = n2; a <= n1; a++) {
-                System.out.print(" " + a);
+            else if(num1 < num2) {
+                for(int a = num1; a<=num2; a++) {
+                    System.out.print(" " + a);
+                }
+                break;
+            }
+            break;
+        }
+    }
+
+    public void practice8() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("숫자 : ");
+        int no = sc.nextInt();
+        for(int i = 1; i <= 9; i++) {
+            System.out.println(no + "*" + i + " = " + no*i);
+        }
+    }
+
+    public void practice9() {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("숫자 : ");
+        int no = sc.nextInt();
+        for(int j = no; j <= 9; j++) {
+            for(int i = 1; i <= 9; i++) {
+                System.out.println(no + "*" + i + " = " + no*i);
             }
         }
-
-
     }
 }
 
