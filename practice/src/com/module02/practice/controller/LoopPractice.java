@@ -108,25 +108,24 @@ public class LoopPractice {
 
     public void practice7() {
         Scanner sc = new Scanner(System.in);
-        while(true) {
+        while (true) {
             System.out.print("첫 번째 숫자 : ");
             int num1 = sc.nextInt();
             System.out.print("두 번째 숫자 : ");
             int num2 = sc.nextInt();
 
-            if(num1 <= 0 || num2 <= 0) {
+            if (num1 <= 0 || num2 <= 0) {
                 System.out.println("1이상의 숫자만을 입력해주세요.");
                 continue;
             }
 
-            if(num1 > num2) {
-                for(int a = num2; a<=num1; a++) {
+            if (num1 > num2) {
+                for (int a = num2; a <= num1; a++) {
                     System.out.print(" " + a);
                 }
                 break;
-            }
-            else if(num1 < num2) {
-                for(int a = num1; a<=num2; a++) {
+            } else if (num1 < num2) {
+                for (int a = num1; a <= num2; a++) {
                     System.out.print(" " + a);
                 }
                 break;
@@ -139,20 +138,97 @@ public class LoopPractice {
         Scanner sc = new Scanner(System.in);
         System.out.print("숫자 : ");
         int no = sc.nextInt();
-        for(int i = 1; i <= 9; i++) {
-            System.out.println(no + "*" + i + " = " + no*i);
+        for (int i = 1; i <= 9; i++) {
+            System.out.println(no + "*" + i + " = " + no * i);
         }
     }
 
     public void practice9() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("숫자 : ");
+        System.out.print("숫자 : ");
         int no = sc.nextInt();
-        for(int j = no; j <= 9; j++) {
-            for(int i = 1; i <= 9; i++) {
-                System.out.println(no + "*" + i + " = " + no*i);
+        if (no < 2 || no > 9) {
+            System.out.println("2~9 사이의 숫자만 입력해주세요.");
+        }
+        for (int j = no; j <= 9; j++) {
+            System.out.println("=========" + j + "단========");
+            for (int i = 1; i <= 9; i++) {
+                System.out.println(j + "*" + i + " = " + j * i);
             }
         }
     }
+
+    public void practice10() {
+        Scanner sc = new Scanner(System.in);
+        while (true) {
+            System.out.print("숫자 : ");
+            int no = sc.nextInt();
+            if (no < 2 || no > 9) {
+                System.out.println("2~9 사이의 숫자만 입력해주세요.");
+                continue;
+            }
+            for (int j = no; j <= 9; j++) {
+                System.out.println("=========" + j + "단========");
+                for (int i = 1; i <= 9; i++) {
+                    System.out.println(j + "*" + i + " = " + j * i);
+                }
+            }
+            break;
+        }
+    }
+
+    public void practice11() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("시작 숫자 : ");
+        int st = sc.nextInt();
+        System.out.print("공차 : ");
+        int tol = sc.nextInt();
+        for (int i = 1; i <= 10; i++) {
+            System.out.print(st + " ");
+            st = st + tol;
+        }
+
+    }
+
+    public void practice12() {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("연산자(+,-,*,/,%) : ");
+        String cal = sc.next();
+        if (cal.equals("exit")) {
+            System.out.println("프로그램을 종료합니다.");
+            System.exit(0);
+        }
+        System.out.print("정수1 : ");
+        int num1 = sc.nextInt();
+        System.out.print("정수2 : ");
+        int num2 = sc.nextInt();
+
+        switch (cal) {
+            case "+" :
+                System.out.println(num1 + " + " + num2 + " = " + (num1 + num2));
+                break;
+            case "-" :
+                System.out.println(num1 + " - " + num2 + " = " + (num1 - num2));
+                break;
+            case "*" :
+                System.out.println(num1 + " * " + num2 + " = " + (num1 * num2));
+                break;
+            case "/" :
+                if(num2 == 0) {
+                    System.out.println("0으로 나눌 수 없습니다. 다시 입력해주세요.");
+                    break;
+                }
+                System.out.println(num1 + " / " + num2 + " = " + (num1 / num2));
+                break;
+            case "%" :
+                System.out.println(num1 + " % " + num2 + " = " + (num1 % num2));
+                break;
+            default :
+                System.out.println("없는 연산자입니다. 다시 입력해주세요.");
+                break;
+        }
+    }
 }
+
 
