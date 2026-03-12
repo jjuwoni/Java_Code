@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80ba303c-f7b6-4b70-a7a5-9e2bd3dd53e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module02-control-flow-and-method/com/wanted/b_loop/chap02/Application01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module02-control-flow-and-method/com/wanted/c_method/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module03-object-oriented-programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module03-object-oriented-programming/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module01/practice/PracApplication5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/ConditionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/com/module02/practice/controller/ConditionPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module01/practice/variable/PracApplication4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module01/practice/PracApplication5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/ConditionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/com/module02/practice/controller/ConditionPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,27 +29,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Application04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfDeep.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Lecture/01_java/module02-control-flow-and-method/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Application01.executor": "Run",
+    "Application.Application02.executor": "Run",
+    "Application.Application03.executor": "Run",
+    "Application.Application04.executor": "Run",
+    "Application.IfDeep.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/01_java/module02-control-flow-and-method",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Lecture/01_java/module02-control-flow-and-method/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -79,7 +65,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772067202510</updated>
+      <workItem from="1773298583024" duration="2000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
